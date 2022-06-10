@@ -1,0 +1,2 @@
+include virtualenv.py setuptools-*.whl pip-*.whl
+recursive-include [myfile] *.html
